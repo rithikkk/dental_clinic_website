@@ -1,14 +1,14 @@
 /********** Template CSS **********/
 :root {
-    --primary: #09ffba;
+    --primary: #bad409;
     --light: #EFF5FF;
-    --dark: #09ffba;
+    --dark: #bad409;
 }
 
 .fw-medium {
     font-weight: 500 !important;
 }
-
+    
 .fw-bold {
     font-weight: 700 !important;
 }
